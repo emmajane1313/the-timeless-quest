@@ -1,0 +1,30 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.slider-wrapper {
+  max-height: 500px;
+}
+
+.slider-wrapper ul,
+.slider-wrapper li {
+  height: 100%;
+}
+
+.legend {
+  background: rgba(0, 0, 0, 0.63) !important;
+  padding: 2rem !important;
+}

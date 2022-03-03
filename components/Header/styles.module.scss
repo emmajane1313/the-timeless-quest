@@ -1,0 +1,103 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
+  background: #4e4aff;
+  z-index: 11;
+
+  @media (max-width: 768px) {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  .links {
+    display: flex;
+    align-items: center;
+
+    @media (max-width: 768px) {
+      display: none !important;
+    }
+
+    .link {
+      color: #ffef62;
+      font-family: Lemon Milk;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 17px;
+      /* identical to box height */
+      padding: 0 10px;
+
+      text-decoration-line: underline;
+
+      color: #ffef62;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}
+
+.mobileBtn {
+  display: none;
+  border: none;
+  background: transparent;
+
+  @media (max-width: 768px) {
+    display: block !important;
+  }
+
+  &:hover {
+    opacity: 0.8;
+  }
+
+  div {
+    width: 35px;
+    height: 5px;
+    background-color: #ffef62;
+    margin: 5px 0;
+  }
+}
+
+.mobileWrapper {
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+
+  background: #4e4aff;
+
+  .links {
+    padding: 8px;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    position: relative;
+    z-index: 11;
+
+    .link {
+      color: #ffef62;
+      font-family: Lemon Milk;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 17px;
+      /* identical to box height */
+      padding: 0 10px;
+
+      text-decoration-line: underline;
+
+      color: #ffef62;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}
