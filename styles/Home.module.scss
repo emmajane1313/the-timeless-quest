@@ -195,7 +195,7 @@
 
   ul {
     margin: 0;
-    padding: 100px;
+    padding: 20px;
 
     li {
       list-style: decimal;
@@ -214,6 +214,7 @@
         align-items: center;
         text-align: center;
         justify-content: center;
+        margin: 0;
         /* or 217% */
         @media (max-width: 576px) {
           font-size: 15px;
@@ -222,7 +223,7 @@
 
 
         display: flex;
-        float: left;
+        float: center;
         clear: both;
         text-decoration-line: underline;
 
