@@ -113,6 +113,15 @@ export default function Home() {
               <a href="https://opensea.io/collection/8megs" target= "_blank" rel="noreferrer">8megs</a>
             </li>
             <li>
+              <a href="https://docs.f3manifesto.xyz/" target= "_blank" rel="noreferrer">F₃Manifesto</a>
+            </li>
+            <li>
+              <a href="https://technomorph.gitbook.io/technomorph/overv1ew/intro" target= "_blank" rel="Techn0m0rph">8megs</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/HimeXRealm" target= "_blank" rel="HimeX">8megs</a>
+            </li>
+            <li>
               <a href="https://blitnauts.blitmap.com/" target= "_blank" rel="noreferrer">Blitnauts</a>
             </li>
             <li>
