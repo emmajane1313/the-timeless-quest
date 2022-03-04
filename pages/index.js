@@ -145,6 +145,12 @@ export default function Home() {
             <li>
               <a href="https://opensea.io/collection/mfers" target= "_blank" rel="noreferrer">mfers</a>
             </li>
+            <li>
+              <a href="https://hyperlootproject.com/" target= "_blank" rel="noreferrer">Hyperloot</a>
+            </li>
+            <li>
+              <a href="https://www.lootproject.com/" target= "_blank" rel="noreferrer">Loot</a>
+            </li>
           </ul>
         </section>
       </main>
