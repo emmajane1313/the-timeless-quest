@@ -101,16 +101,49 @@ export default function Home() {
           <h1 className={styles.title}>CC0 Index</h1>
           <ul>
             <li>
-              <a href="">Link One</a>
+              <a href="https://www.cryptoadz.io/" rel="noreferrer">Cryptoadz </a>
             </li>
             <li>
-              <a href="">Link Two</a>
+              <a href="https://www.blitmap.com/" rel="noreferrer">Blitmap</a>
             </li>
             <li>
-              <a href="">Link Three</a>
+              <a href="https://nouns.wtf/" rel="noreferrer">Nouns</a>
             </li>
             <li>
-              <a href="">Link Four</a>
+              <a href="https://opensea.io/collection/8megs" rel="noreferrer">8megs</a>
+            </li>
+            <li>
+              <a href="https://blitnauts.blitmap.com/" rel="noreferrer">Blitnauts</a>
+            </li>
+            <li>
+              <a href="https://www.chainrunners.xyz/faq" rel="noreferrer">Chain Runners</a>
+            </li>
+            <li>
+              <a href="https://linktr.ee/heroesnftcollection" rel="noreferrer">Merlin the Blue</a>
+            </li>
+            <li>
+              <a href="http://digitalax.xyz/" rel="noreferrer">DIGITALAX</a>
+            </li>
+            <li>
+              <a href="designers.digitalax.xyz/" rel="noreferrer">Global Designer Network</a>
+            </li>
+            <li>
+              <a href="https://models.digitalax.xyz/" rel="noreferrer">Global Models Sydnicate</a>
+            </li>
+            <li>
+              <a href="https://digifizzy.xyz/" rel="noreferrer">DIGIFIZZY</a>
+            </li>
+            <li>
+              <a href="https://www.arpeggi.io/" rel="noreferrer">Arpeggi Labs</a>
+            </li>
+            <li>
+              <a href="https://opensea.io/collection/larva-lads" rel="noreferrer">Larva Lads</a>
+            </li>
+            <li>
+              <a href="https://opensea.io/collection/uma-no-copyright" rel="noreferrer">UMA NO COPYRIGHT</a>
+            </li>
+            <li>
+              <a href="https://opensea.io/collection/mfers" rel="noreferrer">mfers</a>
             </li>
           </ul>
         </section>
