@@ -196,7 +196,8 @@
   ul {
     margin: 0;
     padding: 20px;
-
+    list-style-position: inside;
+    
     li {
       list-style: decimal;
       color: #4e4aff;
