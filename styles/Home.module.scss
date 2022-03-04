@@ -195,6 +195,10 @@
 
   ul {
 
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
     li {
       list-style: decimal;
       color: #4e4aff;
@@ -204,10 +208,6 @@
       font-size: 2vw;
       a {
         font-family: NewYork;
-        align-items: center;
-        text-align: center;
-        justify-content: center;
-        margin: 0;
         font-style: normal;
         font-weight: normal;
         font-size: 2vw;
