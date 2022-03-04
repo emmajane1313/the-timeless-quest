@@ -5,6 +5,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import styles from "../styles/Home.module.scss";
+import Audio from "../components/Audio";
 
 export default function Home() {
   const [images1, setImages1] = useState([]);
@@ -56,8 +57,24 @@ export default function Home() {
 
         <section className={styles.section2}>
           {images1.map((item) => (
-            <div className={styles.sliderItem} key={item.image}>
-              <img className={styles.sliderImage} src={item.image} />
+            <div
+              className={styles.sliderItem}
+              key={item.audio || item.image || item.video}
+            >
+              {item.video && (
+                <video autoPlay muted loop className={styles.sliderImage}>
+                  <source src={item.video} />
+                </video>
+              )}
+              {item.audio && (
+                <div className={styles.sliderImage}>
+                  <img src={item.image} />
+                  <Audio src={item.audio} classNames={styles.audio} />
+                </div>
+              )}
+              {!item.audio && item.image && (
+                <img className={styles.sliderImage} src={item.image} />
+              )}
               <div className={styles.sliderBody}>
                 <p className={styles.sliderTitle}>{item.title}</p>
                 <p className={styles.sliderDescription}>{item.description}</p>
@@ -77,9 +94,25 @@ export default function Home() {
         <section className={styles.section5} />
 
         <section className={styles.section3}>
-          {images2.map((item) => (
-            <div className={styles.sliderItem} key={item.image}>
-              <img className={styles.sliderImage} src={item.image} />
+           {images2.map((item) => (
+            <div
+              className={styles.sliderItem}
+              key={item.audio || item.image || item.video}
+            >
+              {item.video && (
+                <video autoPlay muted loop className={styles.sliderImage}>
+                  <source src={item.video} />
+                </video>
+              )}
+              {item.audio && (
+                <div className={styles.sliderImage}>
+                  <img src={item.image} />
+                  <Audio src={item.audio} classNames={styles.audio} />
+                </div>
+              )}
+              {!item.audio && item.image && (
+                <img className={styles.sliderImage} src={item.image} />
+              )}
               <div className={styles.sliderBody}>
                 <p className={styles.sliderTitle}>{item.title}</p>
                 <p className={styles.sliderDescription}>{item.description}</p>
