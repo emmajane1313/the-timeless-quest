@@ -131,6 +131,9 @@ export default function Home() {
               <a href="https://linktr.ee/heroesnftcollection" target= "_blank" rel="noreferrer">Merlin the Blue</a>
             </li>
             <li>
+              <a href="https://pluglife.gitbook.io/plug-life/overview/plug-life" target= "_blank" rel="HimeX">Plug Life</a>
+            </li>
+            <li>
               <a href="http://digitalax.xyz/" target= "_blank" rel="noreferrer">DIGITALAX</a>
             </li>
             <li>
