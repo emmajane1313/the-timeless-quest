@@ -194,6 +194,8 @@
   }
 
   ul {
+    margin: 0;
+    padding: 0;
 
     li {
       list-style: decimal;
@@ -201,6 +203,7 @@
       font-family: NewYork;
       font-style: normal;
       font-weight: normal;
+      text-align: center;
       font-size: 2vw;
       a {
         font-family: NewYork;
@@ -208,16 +211,15 @@
         font-weight: normal;
         font-size: 2vw;
         line-height: 3.1vw;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
         /* or 217% */
         @media (max-width: 576px) {
           font-size: 15px;
           line-height: 18px;
         }
 
-
-        align-items: center;
-        text-align: center;
-        justify-content: center;
 
         display: flex;
         text-decoration-line: underline;
@@ -231,12 +233,6 @@
       }
     }
   }
-}
-
-.link {
-  align-items: center;
-  text-align: center;
-  justify-content: center;
 }
 
 .section5 {
