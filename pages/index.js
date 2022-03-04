@@ -104,46 +104,46 @@ export default function Home() {
               <a href="https://www.cryptoadz.io/" target= "_blank" rel="noreferrer">Cryptoadz</a>
             </li>
             <li>
-              <a href="https://www.blitmap.com/" rel="noreferrer">Blitmap</a>
+              <a href="https://www.blitmap.com/" target= "_blank" rel="noreferrer">Blitmap</a>
             </li>
             <li>
-              <a href="https://nouns.wtf/" rel="noreferrer">Nouns</a>
+              <a href="https://nouns.wtf/" target= "_blank" rel="noreferrer">Nouns</a>
             </li>
             <li>
-              <a href="https://opensea.io/collection/8megs" rel="noreferrer">8megs</a>
+              <a href="https://opensea.io/collection/8megs" target= "_blank" rel="noreferrer">8megs</a>
             </li>
             <li>
-              <a href="https://blitnauts.blitmap.com/" rel="noreferrer">Blitnauts</a>
+              <a href="https://blitnauts.blitmap.com/" target= "_blank" rel="noreferrer">Blitnauts</a>
             </li>
             <li>
-              <a href="https://www.chainrunners.xyz/faq" rel="noreferrer">Chain Runners</a>
+              <a href="https://www.chainrunners.xyz/faq" target= "_blank" rel="noreferrer">Chain Runners</a>
             </li>
             <li>
-              <a href="https://linktr.ee/heroesnftcollection" rel="noreferrer">Merlin the Blue</a>
+              <a href="https://linktr.ee/heroesnftcollection" target= "_blank" rel="noreferrer">Merlin the Blue</a>
             </li>
             <li>
-              <a href="http://digitalax.xyz/" rel="noreferrer">DIGITALAX</a>
+              <a href="http://digitalax.xyz/" target= "_blank" rel="noreferrer">DIGITALAX</a>
             </li>
             <li>
-              <a href="designers.digitalax.xyz/" rel="noreferrer">Global Designer Network</a>
+              <a href="designers.digitalax.xyz/" target= "_blank" rel="noreferrer">Global Designer Network</a>
             </li>
             <li>
-              <a href="https://models.digitalax.xyz/" rel="noreferrer">Global Models Sydnicate</a>
+              <a href="https://models.digitalax.xyz/" target= "_blank" rel="noreferrer">Global Models Sydnicate</a>
             </li>
             <li>
-              <a href="https://digifizzy.xyz/" rel="noreferrer">DIGIFIZZY</a>
+              <a href="https://digifizzy.xyz/" target= "_blank" rel="noreferrer">DIGIFIZZY</a>
             </li>
             <li>
-              <a href="https://www.arpeggi.io/" rel="noreferrer">Arpeggi Labs</a>
+              <a href="https://www.arpeggi.io/" target= "_blank" rel="noreferrer">Arpeggi Labs</a>
             </li>
             <li>
-              <a href="https://opensea.io/collection/larva-lads" rel="noreferrer">Larva Lads</a>
+              <a href="https://opensea.io/collection/larva-lads" target= "_blank" rel="noreferrer">Larva Lads</a>
             </li>
             <li>
-              <a href="https://opensea.io/collection/uma-no-copyright" rel="noreferrer">UMA NO COPYRIGHT</a>
+              <a href="https://opensea.io/collection/uma-no-copyright" target= "_blank" rel="noreferrer">UMA NO COPYRIGHT</a>
             </li>
             <li>
-              <a href="https://opensea.io/collection/mfers" rel="noreferrer">mfers</a>
+              <a href="https://opensea.io/collection/mfers" target= "_blank" rel="noreferrer">mfers</a>
             </li>
           </ul>
         </section>
