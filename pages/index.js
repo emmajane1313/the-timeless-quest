@@ -68,7 +68,7 @@ export default function Home() {
                   rel="noreferrer"
                 >
                   {" "}
-                  Buy Now{" "}
+                  View & Collect{" "}
                 </a>
               </div>
             </div>
@@ -90,7 +90,7 @@ export default function Home() {
                   rel="noreferrer"
                 >
                   {" "}
-                  Buy Now{" "}
+                  View & Collect{" "}
                 </a>
               </div>
             </div>
