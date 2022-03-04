@@ -197,20 +197,17 @@
   }
 
   ul {
-    margin:0px;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 0px; 
-    
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+
     li {
       list-style: decimal;
       color: #4e4aff;
       font-family: NewYork;
       font-style: normal;
       font-weight: normal;
-      align-items: center;
-      text-align: center;
-      justify-content: center;
       font-size: 2vw;
       a {
         font-family: NewYork;
