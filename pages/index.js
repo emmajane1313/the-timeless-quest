@@ -101,7 +101,7 @@ export default function Home() {
           <h1 className={styles.title}>CC0 Index</h1>
           <ul>
             <li>
-              <a href="https://www.cryptoadz.io/" rel="noreferrer">Cryptoadz </a>
+              <a href="https://www.cryptoadz.io/" rel="noopener noreferrer">Cryptoadz </a>
             </li>
             <li>
               <a href="https://www.blitmap.com/" rel="noreferrer">Blitmap</a>
