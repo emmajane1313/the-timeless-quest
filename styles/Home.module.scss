@@ -193,6 +193,11 @@
     color: #4e4aff;
   }
 
+  .centered { 
+    margin-left: auto;
+    margin-right: auto;
+    }
+
   ul {
     li {
       list-style: decimal;
@@ -201,6 +206,7 @@
       font-style: normal;
       font-weight: normal;
       font-size: 2.3vw;
+      padding-left: ;
       a {
         font-family: NewYork;
         font-style: normal;
