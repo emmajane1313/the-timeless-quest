@@ -151,8 +151,8 @@
   color: #ffffff;
 
   @media (max-width: 576px) {
-    font-size: 15px;
-    line-height: 18px;
+    font-size: 10px;
+    line-height: 12px;
   }
 }
 
@@ -190,6 +190,11 @@
   cursor: pointer;
 
   color: #ffffff;
+
+  @media (max-width: 576px) {
+    font-size: 13px;
+    line-height: 15px;
+  }
 }
 
 .section4 {
