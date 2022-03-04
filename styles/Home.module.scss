@@ -202,10 +202,6 @@
       font-style: normal;
       font-weight: normal;
       font-size: 2vw;
-      align-items: center;
-      text-align: center;
-      justify-content: center;
-      margin: 0;
       a {
         font-family: NewYork;
         font-style: normal;
@@ -231,6 +227,14 @@
     }
   }
 }
+
+.link {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin: 0;
+}
+
 
 .section5 {
   width: 100%;

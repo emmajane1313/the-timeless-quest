@@ -100,7 +100,7 @@ export default function Home() {
         <section className={styles.section4}>
           <h1 className={styles.title}>CC0 Index</h1>
           <ul>
-            <li>
+            <li className={styles.link}>
               <a href="https://www.cryptoadz.io/" target= "_blank" rel="noreferrer">Cryptoadz</a>
             </li>
             <li>
