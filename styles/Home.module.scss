@@ -194,22 +194,19 @@
   }
 
   ul {
-    margin: 0;
     padding: 20px;
     list-style-position: inside;
-    
+    text-align: center;
+
     li {
       list-style: decimal;
       color: #4e4aff;
       font-family: NewYork;
       font-style: normal;
       font-weight: normal;
-      text-align: center;
       font-size: 2vw;
       line-height: 3.1vw;
       padding-left: 100px;
-      float: inherit;
-      clear: both;
       a {
         font-family: NewYork;
         font-style: normal;
