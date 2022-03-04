@@ -175,7 +175,7 @@
 
 .section4 {
   background: #ffef62;
-  padding: 4vw 7.5vw;
+ // padding: 4vw 7.5vw;
   width: 100%;
 
   .title {
@@ -199,9 +199,11 @@
       font-family: NewYork;
       font-style: normal;
       font-weight: normal;
+      margin: 0;
       font-size: 2.3vw;
       a {
         font-family: NewYork;
+        margin: 0;
         font-style: normal;
         font-weight: normal;
         font-size: 2vw;
