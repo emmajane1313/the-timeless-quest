@@ -207,13 +207,13 @@
       font-style: normal;
       font-weight: normal;
       font-size: 1.8vw;
-     // line-height: 3.2vw;
+      line-height: 3.5vw;
       a {
         font-family: NewYork;
         font-style: normal;
         font-weight: normal;
         font-size: 1.8vw;
-        line-height: 3.2vw;
+        line-height: 3.5vw;
         display: block;
         width:max-content;
      /*   align-items: center;
@@ -222,8 +222,8 @@
         margin: 0;
         /* or 217% */
         @media (max-width: 576px) {
-          font-size: 15px;
-          line-height: 18px;
+          font-size: 16px;
+          line-height: 22px;
         }
 
 
