@@ -11,7 +11,7 @@ const Header = () => {
           <a href="https://docs.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
             DOCUMENTATION
           </a>
-          <a href="https://docs.f3manifesto.xyz/web3-fashion-manifesto/map" className={styles.link} target="_blank" rel="noreferrer">
+          <a href="https://web3fashionmanifesto.f3manifesto.xyz/manifesto/1/" className={styles.link} target="_blank" rel="noreferrer">
             Web3 Fashion manifesto
           </a>
           <a href="https://mirror.xyz/f3manifesto.eth" className={styles.link} target="_blank" rel="noreferrer">
