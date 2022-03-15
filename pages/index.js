@@ -196,6 +196,15 @@ export default function Home() {
             <li>
               <a href="https://www.lootproject.com/" target= "_blank" rel="noreferrer">Loot</a>
             </li>
+            <li>
+              <a href="https://xmfers.com/" target= "_blank" rel="noreferrer">xmfers</a>
+            </li>
+            <li>
+              <a href="https://tubbycats.xyz/home" target= "_blank" rel="noreferrer">xmfers</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/cryptostellas" target= "_blank" rel="noreferrer">CryptoStellas</a>
+            </li>
           </ul>
         </section>
       </main>
