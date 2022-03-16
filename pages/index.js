@@ -34,7 +34,7 @@ export default function Home() {
         )
           .then((res) => res.json())
           .then((data) => {
-            setImages2(data?.data.map((item) => item.data));
+            setImages3(data?.data.map((item) => item.data));
           });
     };
 
@@ -140,7 +140,7 @@ export default function Home() {
         <section className={styles.section5} />
 
         <section className={styles.section6}>
-           {images2.map((item) => (
+           {images3.map((item) => (
             <div
               className={styles.sliderItem}
               key={item.audio || item.image || item.video}
