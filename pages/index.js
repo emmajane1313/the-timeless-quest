@@ -10,6 +10,7 @@ import Audio from "../components/Audio";
 export default function Home() {
   const [images1, setImages1] = useState([]);
   const [images2, setImages2] = useState([]);
+  const [images3, setImages3] = useState([]);
 
   useEffect(() => {
     const fetchContents = async () => {
