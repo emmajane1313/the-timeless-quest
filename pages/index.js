@@ -247,7 +247,7 @@ export default function Home() {
               <a href="https://xmfers.com/" target= "_blank" rel="noreferrer">xmfers</a>
             </li>
             <li>
-              <a href="https://tubbycats.xyz/home" target= "_blank" rel="noreferrer">xmfers</a>
+              <a href="https://tubbycats.xyz/home" target= "_blank" rel="noreferrer">Tubby Cats</a>
             </li>
             <li>
               <a href="https://twitter.com/cryptostellas" target= "_blank" rel="noreferrer">CryptoStellas</a>
