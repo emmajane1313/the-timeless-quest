@@ -252,6 +252,9 @@ export default function Home() {
             <li>
               <a href="https://twitter.com/cryptostellas" target= "_blank" rel="noreferrer">CryptoStellas</a>
             </li>
+            <li>
+              <a href="http://nounpunks.com/" target= "_blank" rel="noreferrer">NounPunks</a>
+            </li>
           </ul>
         </section>
       </main>
