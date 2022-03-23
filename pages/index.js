@@ -255,6 +255,69 @@ export default function Home() {
             <li>
               <a href="http://nounpunks.com/" target= "_blank" rel="noreferrer">NounPunks</a>
             </li>
+            <li>
+              <a href="https://linktr.ee/3Mfer" target= "_blank" rel="noreferrer">3Mfers</a>
+            </li>
+            <li>
+              <a href="https://linktr.ee/punkforce" target= "_blank" rel="noreferrer">PunkForce</a>
+            </li>
+            <li>
+              <a href="https://www.chromacats.com/" target= "_blank" rel="noreferrer">Chroma Cats</a>
+            </li>
+            <li>
+              <a href="https://gnars.wtf/" target= "_blank" rel="noreferrer">Gnars</a>
+            </li>
+            <li>
+              <a href="https://larvalads.com/" target= "_blank" rel="noreferrer">Larva Lads</a>
+            </li>
+            <li>
+              <a href="https://linktr.ee/kaizennft" target= "_blank" rel="noreferrer">Kaizan</a>
+            </li>
+            <li>
+              <a href="https://opensea.io/collection/derage" target= "_blank" rel="noreferrer">Derage</a>
+            </li>
+            <li>
+              <a href="https://solo.to/supernormal" target= "_blank" rel="noreferrer">SuperNormal</a>
+            </li>
+            <li>
+              <a href="https://www.monfter.com/" target= "_blank" rel="noreferrer">Monfters Club</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/HOWLERZNFT" target= "_blank" rel="noreferrer">HOWLERZ</a>
+            </li>
+            <li>
+              <a href="https://www.cryptodickbutts.com/" target= "_blank" rel="noreferrer">CryptoDickbutts</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/TheBoanez" target= "_blank" rel="noreferrer">Boanez</a>
+            </li>
+            <li>
+              <a href="https://linktr.ee/CrypToadettez" target= "_blank" rel="noreferrer">CrypToadettez</a>
+            </li>
+            <li>
+              <a href="https://www.worldofnoun.com/" target= "_blank" rel="noreferrer">World of Noun</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/D3ELD3" target= "_blank" rel="noreferrer">D3ELD3</a>
+            </li>
+            <li>
+              <a href="https://touns.wtf/" target= "_blank" rel="noreferrer">Tounz</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/thenoadz" target= "_blank" rel="noreferrer">Noadz</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/Greta_gremplin" target= "_blank" rel="noreferrer">Greta Mash-up Club</a>
+            </li>
+            <li>
+              <a href="https://linktr.ee/theboneys" target= "_blank" rel="noreferrer">The Boneys</a>
+            </li>
+            <li>
+              <a href="https://www.croakz.io/" target= "_blank" rel="noreferrer">CROAKZ</a>
+            </li>
+            <li>
+              <a href="https://ricracequestrianclub.com/" target= "_blank" rel="noreferrer">Ric Rac Equestrian Club</a>
+            </li>
           </ul>
         </section>
       </main>
