@@ -11,6 +11,7 @@ export default function Home() {
   const [images1, setImages1] = useState([]);
   const [images2, setImages2] = useState([]);
   const [images3, setImages3] = useState([]);
+  const [images4, setImages4] = useState([]);
 
   useEffect(() => {
     const fetchContents = async () => {
@@ -37,6 +38,14 @@ export default function Home() {
           .then((data) => {
             setImages3(data?.data.map((item) => item.data));
           });
+      
+      fetch(
+        "https://7kuwlltzmc.execute-api.eu-central-1.amazonaws.com/latest/cc0-images?collection=cc0-test4"
+        )
+          .then((res) => res.json())
+          .then((data) => {
+            setImages4(data?.data.map((item) => item.data));
+        });
     };
 
     fetchContents();
@@ -142,6 +151,44 @@ export default function Home() {
 
         <section className={styles.section6}>
            {images3.map((item) => (
+            <div
+              className={styles.sliderItem}
+              key={item.audio || item.image || item.video}
+            >
+              {item.video && (
+                <video autoPlay muted loop className={styles.sliderImage}>
+                  <source src={item.video} />
+                </video>
+              )}
+              {item.audio && (
+                <div className={styles.sliderImage}>
+                  <img src={item.image} />
+                  <Audio src={item.audio} classNames={styles.audio} />
+                </div>
+              )}
+              {!item.audio && item.image && (
+                <img className={styles.sliderImage} src={item.image} />
+              )}
+              <div className={styles.sliderBody}>
+                <p className={styles.sliderTitle}>{item.title}</p>
+                <p className={styles.sliderDescription}>{item.description}</p>
+                <a
+                  className={styles.sliderBuyNow}
+                  href={item.url}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {" "}
+                  View & Collect{" "}
+                </a>
+              </div>
+            </div>
+          ))}
+        </section>
+        <section className={styles.section5} />
+        
+        <section className={styles.section7}>
+           {images4.map((item) => (
             <div
               className={styles.sliderItem}
               key={item.audio || item.image || item.video}
