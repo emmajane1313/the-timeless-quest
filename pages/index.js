@@ -365,6 +365,9 @@ export default function Home() {
             <li>
               <a href="https://ricracequestrianclub.com/" target= "_blank" rel="noreferrer">Ric Rac Equestrian Club</a>
             </li>
+            <li>
+              <a href="https://wnd.game/" target= "_blank" rel="noreferrer">Wizards and Dragons</a>
+            </li>
           </ul>
         </section>
       </main>
