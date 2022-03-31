@@ -371,6 +371,9 @@ export default function Home() {
             <li>
               <a href="https://twitter.com/_gradis_" target= "_blank" rel="noreferrer">Gradis</a>
             </li>
+            <li>
+              <a href="https://nounsoup.wtf/" target= "_blank" rel="noreferrer">Noun Soup</a>
+            </li>
           </ul>
         </section>
       </main>
