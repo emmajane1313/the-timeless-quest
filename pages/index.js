@@ -368,6 +368,9 @@ export default function Home() {
             <li>
               <a href="https://wnd.game/" target= "_blank" rel="noreferrer">Wizards and Dragons</a>
             </li>
+            <li>
+              <a href="https://twitter.com/_gradis_" target= "_blank" rel="noreferrer">Gradis</a>
+            </li>
           </ul>
         </section>
       </main>
