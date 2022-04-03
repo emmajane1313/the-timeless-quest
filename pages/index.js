@@ -374,6 +374,9 @@ export default function Home() {
             <li>
               <a href="https://nounsoup.wtf/" target= "_blank" rel="noreferrer">Noun Soup</a>
             </li>
+            <li>
+              <a href="https://swampcatz.com/" target= "_blank" rel="noreferrer">SwampCatz</a>
+            </li>
           </ul>
         </section>
       </main>
