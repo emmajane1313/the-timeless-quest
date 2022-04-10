@@ -377,6 +377,9 @@ export default function Home() {
             <li>
               <a href="https://swampcatz.com/" target= "_blank" rel="noreferrer">SwampCatz</a>
             </li>
+            <li>
+              <a href="https://www.larvacucks.xyz/" target= "_blank" rel="noreferrer">Larva Cucks</a>
+            </li>
           </ul>
         </section>
       </main>
