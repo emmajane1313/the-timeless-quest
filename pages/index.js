@@ -380,6 +380,12 @@ export default function Home() {
             <li>
               <a href="https://www.larvacucks.xyz/" target= "_blank" rel="noreferrer">Larva Cucks</a>
             </li>
+            <li>
+              <a href="https://linktr.ee/gh0stlygh0sts" target= "_blank" rel="noreferrer">Gh0stly Gh0sts</a>
+            </li>
+            <li>
+              <a href="https://linktr.ee/racc0ons" target= "_blank" rel="noreferrer">racc0ons</a>
+            </li>
           </ul>
         </section>
       </main>
