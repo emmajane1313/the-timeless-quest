@@ -386,6 +386,9 @@ export default function Home() {
             <li>
               <a href="https://linktr.ee/racc0ons" target= "_blank" rel="noreferrer">racc0ons</a>
             </li>
+            <li>
+              <a href="https://fruglys.com/" target= "_blank" rel="noreferrer">FRUGLYS</a>
+            </li>
           </ul>
         </section>
       </main>
