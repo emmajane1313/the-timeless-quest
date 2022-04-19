@@ -389,6 +389,9 @@ export default function Home() {
             <li>
               <a href="https://fruglys.com/" target= "_blank" rel="noreferrer">FRUGLYS</a>
             </li>
+            <li>
+              <a href="https://twitter.com/motherfuckerz69" target= "_blank" rel="noreferrer">motherfuckerz</a>
+            </li>
           </ul>
         </section>
       </main>
