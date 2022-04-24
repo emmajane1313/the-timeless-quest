@@ -395,6 +395,9 @@ export default function Home() {
             <li>
               <a href="https://smowl.xyz/" target= "_blank" rel="noreferrer">SMOWL</a>
             </li>
+            <li>
+              <a href="https://twitter.com/stonednouns" target= "_blank" rel="noreferrer">Stoned Nouns</a>
+            </li>
           </ul>
         </section>
       </main>
