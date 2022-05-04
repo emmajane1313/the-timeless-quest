@@ -401,6 +401,9 @@ export default function Home() {
             <li>
               <a href="https://twitter.com/RugBuds" target= "_blank" rel="noreferrer">Rug Buds</a>
             </li>
+            <li>
+              <a href="https://wizardsdao.com/" target= "_blank" rel="noreferrer">Wizards DAO</a>
+            </li>
           </ul>
         </section>
       </main>
