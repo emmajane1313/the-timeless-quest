@@ -404,6 +404,12 @@ export default function Home() {
             <li>
               <a href="https://wizardsdao.com/" target= "_blank" rel="noreferrer">Wizards DAO</a>
             </li>
+            <li>
+              <a href="https://twitter.com/tinyboysnft_" target= "_blank" rel="noreferrer">tiny boys</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/tinydinosnft" target= "_blank" rel="noreferrer">tiny dinos</a>
+            </li>
           </ul>
         </section>
       </main>
