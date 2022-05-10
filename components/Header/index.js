@@ -8,20 +8,20 @@ const Header = () => {
       <div className={styles.wrapper}>
         <img src="/images/logo.png" className={styles.logo} />
         <div className={styles.links}>
-          <a href="https://docs.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
-            DOCUMENTATION
+          <a href="https://market.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
+            Digital Fashion Market
           </a>
-          <a href="https://web3fashionmanifesto.f3manifesto.xyz/manifesto/1/" className={styles.link} target="_blank" rel="noreferrer">
-            Web3 Fashion manifesto
+          <a href="https://popup.f3manifesto.xyz" className={styles.link} target="_blank" rel="noreferrer">
+            IRL Fashion & Collectibles
           </a>
-          <a href="https://mirror.xyz/f3manifesto.eth" className={styles.link} target="_blank" rel="noreferrer">
-            Sub-thread weekly
+          <a href="https://web3fashionmanifesto.xyz/manifesto/1/" className={styles.link} target="_blank" rel="noreferrer">
+            Web3 Fashion Manifesto
           </a>
           <a href="https://themanifest.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
             The Manifest Gallery
           </a>
-          <a href="https://web3cc0openlibrary.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
-            Web3 CC0 Open Library
+          <a href="https://mypocketempire.xyz/" className={styles.link} target="_blank" rel="noreferrer">
+            My Pocket Empire
           </a>
         </div>
         <button className={styles.mobileBtn} onClick={() => setShow(!show)}>
@@ -33,21 +33,21 @@ const Header = () => {
       {show && (
         <div className={styles.mobileWrapper}>
           <div className={styles.links}>
-            <a href="https://docs.f3manifesto.xyz" className={styles.link} target="_blank" rel="noreferrer">
-              DOCUMENTATION
-            </a>
-            <a href="https://docs.f3manifesto.xyz/web3-fashion-manifesto/map" className={styles.link} target="_blank" rel="noreferrer">
-              Web3 Fashion manifesto
-            </a>
-            <a href="https://mirror.xyz/f3manifesto.eth" className={styles.link} target="_blank" rel="noreferrer">
-              Sub-thread weekly
-            </a>
-            <a href="https://themanifest.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
-              The Manifest Gallery
-            </a>
-            <a href="https://web3cc0openlibrary.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
-              Web3 CC0 Open Library
-            </a>
+          <a href="https://market.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
+            Digital Fashion Market
+          </a>
+          <a href="https://popup.f3manifesto.xyz" className={styles.link} target="_blank" rel="noreferrer">
+            IRL Fashion & Collectibles
+          </a>
+          <a href="https://web3fashionmanifesto.xyz/manifesto/1/" className={styles.link} target="_blank" rel="noreferrer">
+            Web3 Fashion Manifesto
+          </a>
+          <a href="https://themanifest.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
+            The Manifest Gallery
+          </a>
+          <a href="https://mypocketempire.xyz/" className={styles.link} target="_blank" rel="noreferrer">
+            My Pocket Empire
+          </a>
           </div>
         </div>
       )}
