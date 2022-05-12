@@ -413,6 +413,9 @@ export default function Home() {
             <li>
               <a href="https://twitter.com/DressedCat" target= "_blank" rel="noreferrer">Dressed Cat</a>
             </li>
+            <li>
+              <a href="https://twitter.com/DeadFreaksNFT" target= "_blank" rel="noreferrer">Dead Freaks</a>
+            </li>
           </ul>
         </section>
       </main>
