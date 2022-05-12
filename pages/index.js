@@ -417,9 +417,6 @@ export default function Home() {
               <a href="https://twitter.com/DeadFreaksNFT" target= "_blank" rel="noreferrer">Dead Freaks</a>
             </li>
             <li>
-              <a href="https://twitter.com/BinkiesNFT" target= "_blank" rel="noreferrer">Binkies</a>
-            </li>
-            <li>
               <a href="https://twitter.com/unofficialmfers" target= "_blank" rel="noreferrer">unofficial mfers</a>
             </li>
           </ul>
