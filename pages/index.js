@@ -232,6 +232,7 @@ export default function Home() {
             </div>
           ))}
         </section>
+        <section className={styles.section5} />
 
 
         <section className={styles.section7}>
