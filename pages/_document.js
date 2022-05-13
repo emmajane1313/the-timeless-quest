@@ -19,6 +19,11 @@ class MyDocument extends Document {
             }
 
             @font-face {
+              font-family: 'Akira Expanded';
+              src: url("./fonts/Akira Expanded Demo.otf");
+            }
+
+            @font-face {
               font-family: "Lemon Milk";
               src: url("./fonts/LEMONMILK-Regular.otf");
               font-weight: normal;
