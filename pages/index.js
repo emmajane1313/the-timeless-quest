@@ -471,6 +471,9 @@ export default function Home() {
             <li>
               <a href="https://www.florinouns.xyz/" target= "_blank" rel="noreferrer">FloriNouns</a>
             </li>
+            <li>
+              <a href="https://www.kristyglas.com/" target= "_blank" rel="noreferrer">Hyper Cats</a>
+            </li>
           </ul>
         </section>
       </main>
