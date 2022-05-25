@@ -17,7 +17,7 @@ const Header = () => {
           <a href="https://popup.f3manifesto.xyz" className={styles.link} target="_blank" rel="noreferrer">
             IRL Fashion & Collectibles
           </a>
-          <a href="https://web3fashionmanifesto.xyz/manifesto/1/" className={styles.link} target="_blank" rel="noreferrer">
+          <a href="https://web3fashionmanifesto.f3manifesto.xyz/manifesto/1/" className={styles.link} target="_blank" rel="noreferrer">
             Web3 Fashion Manifesto
           </a>
           <a href="https://themanifest.f3manifesto.xyz/" className={styles.link} target="_blank" rel="noreferrer">
