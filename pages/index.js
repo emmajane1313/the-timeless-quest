@@ -361,9 +361,6 @@ export default function Home() {
               <a href="https://gnars.wtf/" target= "_blank" rel="noreferrer">Gnars</a>
             </li>
             <li>
-              <a href="https://larvalads.com/" target= "_blank" rel="noreferrer">Larva Lads</a>
-            </li>
-            <li>
               <a href="https://linktr.ee/kaizennft" target= "_blank" rel="noreferrer">Kaizan</a>
             </li>
             <li>
