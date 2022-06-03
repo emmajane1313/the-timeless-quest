@@ -313,7 +313,7 @@ export default function Home() {
               <a href="designers.digitalax.xyz/" target= "_blank" rel="noreferrer">Global Designer Network</a>
             </li>
             <li>
-              <a href="https://models.digitalax.xyz/" target= "_blank" rel="noreferrer">Global Models Sydnicate</a>
+              <a href="https://models.digitalax.xyz/" target= "_blank" rel="noreferrer">Global Models Syndicate</a>
             </li>
             <li>
               <a href="https://digifizzy.xyz/" target= "_blank" rel="noreferrer">DIGIFIZZY</a>
