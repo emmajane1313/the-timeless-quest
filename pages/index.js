@@ -474,6 +474,9 @@ export default function Home() {
             <li>
               <a href="https://goblintown.wtf/" target= "_blank" rel="noreferrer">Goblin Town</a>
             </li>
+            <li>
+              <a href="https://twitter.com/wagdie_eth" target= "_blank" rel="noreferrer">𝔚𝔢 𝔞𝔯𝔢 𝔄𝔩𝔩 𝔊𝔬𝔦𝔫𝔤 𝔱𝔬 𝔇𝔦𝔢</a>
+            </li>
           </ul>
         </section>
       </main>
