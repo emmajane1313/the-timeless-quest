@@ -477,6 +477,9 @@ export default function Home() {
             <li>
               <a href="https://twitter.com/wagdie_eth" target= "_blank" rel="noreferrer">We Are All Going to Die</a>
             </li>
+            <li>
+              <a href="https://twitter.com/xqstgfx" target= "_blank" rel="noreferrer">exquisite graphics</a>
+            </li>
           </ul>
         </section>
       </main>
