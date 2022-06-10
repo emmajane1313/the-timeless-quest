@@ -480,6 +480,9 @@ export default function Home() {
             <li>
               <a href="https://twitter.com/xqstgfx" target= "_blank" rel="noreferrer">exquisite graphics</a>
             </li>
+            <li>
+              <a href="https://twitter.com/JustMallards" target= "_blank" rel="noreferrer">Just Mallards</a>
+            </li>
           </ul>
         </section>
       </main>
