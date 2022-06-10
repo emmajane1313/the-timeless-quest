@@ -388,7 +388,7 @@ export default function Home() {
               <a href="https://www.worldofnoun.com/" target= "_blank" rel="noreferrer">World of Noun</a>
             </li>
             <li>
-              <a href="https://twitter.com/D3ELD3" target= "_blank" rel="noreferrer">D3ELD3</a>
+              <a href="https://twitter.com/D3ELD3" target= "_blank" rel="noreferrer">PEPEPALS</a>
             </li>
             <li>
               <a href="https://touns.wtf/" target= "_blank" rel="noreferrer">Tounz</a>
@@ -433,7 +433,7 @@ export default function Home() {
               <a href="https://fruglys.com/" target= "_blank" rel="noreferrer">FRUGLYS</a>
             </li>
             <li>
-              <a href="https://twitter.com/motherfuckerz69" target= "_blank" rel="noreferrer">motherfuckerz</a>
+              <a href="https://twitter.com/MFERZ69" target= "_blank" rel="noreferrer">MFERZ</a>
             </li>
             <li>
               <a href="https://smowl.xyz/" target= "_blank" rel="noreferrer">SMOWL</a>
