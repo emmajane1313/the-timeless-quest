@@ -3,6 +3,7 @@ import Footer from "../components/Footer";
 import Header from "../components/Header";
 import MainQuest from "../components/MainQuest";
 import styles from "../styles/Home.module.scss";
+import { ConnectButton } from '@rainbow-me/rainbowkit';
 
 export default function Home() {
 
@@ -17,10 +18,22 @@ export default function Home() {
       <Header />
 
       <main className={styles.main}>
-        <section className={styles.section1}>
           <img src="/../images/clockbackground1.png" className={styles.firstImage} />
           <MainQuest className={styles.mainQuest}/>
-        </section>
+
+          <h1 className={styles.h1}>DITCH THE FOMO.</h1>
+          <h2 className={styles.h2}>The web3 way to own your timeline.</h2>
+
+          <img src="/../images/messageBoard.png" className={styles.messageBoard} />
+
+          <img src="/../images/girl_1.png" className={styles.girl1} />
+          <img src="/../images/girl_2.png" className={styles.girl2} />
+
+          <img src="/../images/hackathonclock2.png" className={styles.bottomImage} />
+
+          <div className={styles.button}>
+            <ConnectButton label="Begin Quest" showBalance={false} chainStatus="icon" accountStatus={{ smallScreen: 'avatar', largeScreen: 'full', }}/>
+          </div>
       </main>
 
       <Footer />

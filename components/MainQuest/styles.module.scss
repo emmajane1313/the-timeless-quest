@@ -1,19 +1,5 @@
-.wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 20vw;
-    background: black;
-    z-index: 11;
   
-    @media (max-width: 768px) {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-    }
-  
-    .box {
+.box {
     box-sizing: border-box;
 
     position: absolute;
@@ -27,6 +13,5 @@
     border-radius: 30px;
     }
 
-}
-  
+
   

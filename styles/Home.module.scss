@@ -1,5 +1,5 @@
 .main {
-  min-height: 300vh;
+  min-height: 730vh;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -24,14 +24,70 @@
   align-items: center;
 }
 
-.section1 {
-  padding: 6vw 7.5vw;
-  background: black;
+ 
+.h1 {
+  position: absolute;
+  height: 50px;
+  left: 2vw;
+  top: 203vh;
 
-  @media (max-width: 768px) {
-    padding-top: 120px;
-  }
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 50px;
+  /* identical to box height */
+
+
+  color: #FFFFFF;
 }
 
+.h2 {
+  position: absolute;
+  top: 218vh;
+  left: 2vw;
 
-  
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 36px;
+  /* identical to box height */
+
+
+  color: #C0C7E7;
+}
+
+.messageBoard {
+  position: absolute;
+  justify-content: center;
+  width: 90%;
+  top: 245vh;
+}
+
+.girl1 {
+  position: absolute;
+  width: 346px;
+  right: 10vw;
+  top: 386vh;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.girl2 {
+  position: absolute;
+  width: 346px;
+  left: 10vw;
+  top: 490vh;
+}
+
+.bottomImage {
+  position: absolute;
+  width: 100%;
+  top: 625vh;
+}
+
+.button {
+  position: absolute;
+  justify-content: center;
+  top: 680vh;
+}

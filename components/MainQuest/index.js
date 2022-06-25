@@ -15,11 +15,8 @@ const MainQuest = () => {
     }
     return (
       <>
-        <div className={styles.wrapper}>
+        <div >
           <div className={styles.box}>
-            <div></div>
-            <div></div>
-            <div></div>
           </div>
         </div>
       </>
