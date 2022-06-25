@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styles from "./styles.module.scss";
+import { client, recommendProfiles } from './api.js'
+
 
 const MainQuest = () => {
     useEffect(() => {
