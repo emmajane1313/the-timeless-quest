@@ -10,24 +10,24 @@ class MyDocument extends Document {
           <style
             dangerouslySetInnerHTML={{
               __html: `
-            @font-face {
-              font-family: "NewYork";
-              font-display: swap;
-              src: url("./fonts/NewYork.otf");
-              font-weight: normal;
-              font-style: normal;
-            }
+              @font-face {
+                font-family: "alarm clock";
+                src: url("./fonts/alarm clock.ttf");
+                font-weight: 400;
+              }
+  
+              @font-face {
+                font-family: "Alvania";
+                src: url("./fonts/Alvania.otf");
+                font-weight: 400;
+              }
 
-            @font-face {
-              font-family: 'Akira Expanded';
-              src: url("./fonts/Akira Expanded Demo.otf");
-            }
-
-            @font-face {
-              font-family: "Lemon Milk";
-              src: url("./fonts/LEMONMILK-Regular.otf");
-              font-weight: normal;
-            }
+              @font-face {
+                font-family: "Berkeley Mono Trial";
+                src: url("./fonts/Alvania.otf");
+                font-weight: 400;
+              }
+             
           `,
             }}
           />

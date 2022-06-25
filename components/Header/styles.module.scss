@@ -2,8 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 8px;
-  background: #4e4aff;
+  padding: 7vw;
+  background: black;
   z-index: 11;
 
   @media (max-width: 768px) {
@@ -12,92 +12,21 @@
     left: 0;
     width: 100%;
   }
-  .links {
-    display: flex;
-    align-items: center;
 
-    @media (max-width: 768px) {
-      display: none !important;
-    }
-
-    .link {
-      color: #ffef62;
-      font-family: Lemon Milk;
-      font-style: normal;
-      font-weight: normal;
-      font-size: 12px;
-      line-height: 17px;
-      /* identical to box height */
-      padding: 0 10px;
-
-      text-decoration-line: underline;
-
-      color: #ffef62;
-
-      &:hover {
-        opacity: 0.8;
-      }
-    }
+  .logo {
+    position: absolute;
+    width: 20vw;
+    left: 2vw;
+    top: 2vw;
   }
-}
-
-.mobileBtn {
-  display: none;
-  border: none;
-  background: transparent;
-
-  @media (max-width: 768px) {
-    display: block !important;
+  
+  .button {
+    position: absolute;
+    width: 10vw;
+    height: 10vw;
+    right: 0.5vw;
+    top: 2vw;
   }
 
-  &:hover {
-    opacity: 0.8;
   }
 
-  div {
-    width: 35px;
-    height: 5px;
-    background-color: #ffef62;
-    margin: 5px 0;
-  }
-}
-
-.mobileWrapper {
-  position: fixed;
-  z-index: 10;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-
-  background: #4e4aff;
-
-  .links {
-    padding: 8px;
-    padding-top: 100px;
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    position: relative;
-    z-index: 11;
-
-    .link {
-      color: #ffef62;
-      font-family: Lemon Milk;
-      font-style: normal;
-      font-weight: normal;
-      font-size: 12px;
-      line-height: 17px;
-      /* identical to box height */
-      padding: 0 10px;
-
-      text-decoration-line: underline;
-
-      color: #ffef62;
-
-      &:hover {
-        opacity: 0.8;
-      }
-    }
-  }
-}
