@@ -19,6 +19,7 @@
     "sass": "^1.49.9",
     "styled-components": "^5.3.3",
     "urql": "^2.2.2",
+    "@urql/exchange-auth": "^0.1.7",
     "wagmi": "^0.4.12"
   },
   "devDependencies": {
