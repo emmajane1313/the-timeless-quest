@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import styles from "./styles.module.scss";
 import { client, recommendProfiles } from '../../api.js'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const MainQuest = () => {
 
