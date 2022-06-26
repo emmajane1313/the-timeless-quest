@@ -8,6 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.6.9",
     "@rainbow-me/rainbowkit": "^0.3.4",
     "@urql/exchange-auth": "^0.1.7",
     "classnames": "^2.3.1",

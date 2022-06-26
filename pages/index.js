@@ -26,14 +26,34 @@ export default function Home() {
 
           <img src="/../images/messageBoard.png" className={styles.messageBoard} />
 
+          <img src="/../images/bubble.png" className={styles.bubble} />
+
           <img src="/../images/girl_1.png" className={styles.girl1} />
+
+          <h3 className={styles.h3}>Chart your own course.</h3>
+          <h4 className={styles.h4}>Publish & collect nfts that</h4>
+          <h5 className={styles.h5}>count.</h5>
+
+          <h6 className={styles.h6}>Turn the clock forward, Not</h6>
+          <h7 className={styles.h7}>back... There’s no time to waste!</h7>
+
           <img src="/../images/girl_2.png" className={styles.girl2} />
+
+          <h8 className={styles.h8}>a web3 social quest</h8>
+          <h9 className={styles.h9}>to make all the keys</h9>
+          <h10 className={styles.h10}>we get more useful</h10>
+          <h11 className={styles.h11}>w/ time</h11>
+
+          <img src="/../images/bubble.png" className={styles.bubble2} />
+
 
           <img src="/../images/hackathonclock2.png" className={styles.bottomImage} />
 
           <div className={styles.button}>
             <ConnectButton label="Begin Quest" showBalance={false} chainStatus="icon" accountStatus={{ smallScreen: 'avatar', largeScreen: 'full', }}/>
           </div>
+
+       
       </main>
 
       <Footer />

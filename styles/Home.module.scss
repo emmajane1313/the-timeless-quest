@@ -65,6 +65,13 @@
   top: 245vh;
 }
 
+.bubble {
+  position: absolute;
+  width: 50%;
+  top: 360vh;
+  left: 10vw;
+}
+
 .girl1 {
   position: absolute;
   width: 346px;
@@ -73,12 +80,168 @@
   transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
+.h3 {
+  position: absolute;
+  height: 50px;
+  left: 4vw;
+  top: 420vh;
+
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 50px;
+  /* identical to box height */
+
+
+  color: #FFFFFF;
+}
+
+.h4 {
+  position: absolute;
+  top: 433vh;
+  left: 4vw;
+
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 36px;
+  /* identical to box height */
+
+
+  color: #C0C7E7;
+}
+
+.h5 {
+  position: absolute;
+  top: 439vh;
+  left: 4vw;
+
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 36px;
+  /* identical to box height */
+
+
+  color: #C0C7E7;
+}
+
+.h6 {
+  position: absolute;
+  top: 455vh;
+  left: 4vw;
+
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 36px;
+  /* identical to box height */
+
+
+  color: #C0C7E7;
+}
+
+
+.h7 {
+  position: absolute;
+  top: 480vh;
+  left: 4vw;
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 36px;
+  /* identical to box height */
+
+
+  color: #C0C7E7;
+}
+
+
 .girl2 {
   position: absolute;
   width: 346px;
   left: 10vw;
   top: 490vh;
 }
+
+.bubble2 {
+  position: absolute;
+  width: 40%;
+  top: 510vh;
+  left: 30vw;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.h8 {
+  position: absolute;
+  top: 563vh;
+  right: 10vw;
+  align-items: flex-start;
+ 
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 50px;
+  /* identical to box height */
+
+  color: #FFFFFF;
+}
+
+.h9 {
+  position: absolute;
+  top: 573vh;
+  right: 10vw;
+  align-items: flex-start;
+ 
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 50px;
+  /* identical to box height */
+
+  color: #FFFFFF;
+}
+
+.h10 {
+  position: absolute;
+  align-items: flex-start;
+  top: 583vh;
+  right: 10vw;
+ 
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 50px;
+  /* identical to box height */
+
+  color: #FFFFFF;
+}
+
+.h11 {
+  position: absolute;
+  align-items: flex-start;
+  top: 593vh;
+  right: 10vw;
+ 
+  font-family: 'Alvania';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 50px;
+  /* identical to box height */
+
+  color: #FFFFFF;
+}
+
+
 
 .bottomImage {
   position: absolute;
@@ -89,5 +252,6 @@
 .button {
   position: absolute;
   justify-content: center;
-  top: 680vh;
+  right: 30vw;
+  top: 610vh;
 }
